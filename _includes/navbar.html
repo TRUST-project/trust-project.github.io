@@ -1,0 +1,18 @@
+<nav class="navbar">
+    <div class="logo-container">
+        <a href="{{ '/' | relative_url }}" style="display:flex; align-items:center; gap:0.5rem;">
+            <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="TRUST Logo" class="logo-img">
+            <div class="logo-text">TRUST <span>Project</span></div>
+        </a>
+    </div>
+    <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </button>
+    <ul class="nav-links">
+        {% for item in site.data.navigation %}
+        <li><a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>

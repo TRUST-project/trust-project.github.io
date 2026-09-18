@@ -1,0 +1,19 @@
+title: TRUST Project
+description: >-
+  Researching how trust shapes organ donation attitudes through a social
+  network approach. University of Granada.
+url: "https://trustproject.site"
+baseurl: ""
+author: TRUST Project
+lang: en
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - node_modules/

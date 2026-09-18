@@ -1,0 +1,3 @@
+Sitemap: https://trustproject.site/sitemap.xml
+User-agent: *
+Allow: /

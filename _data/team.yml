@@ -1,0 +1,124 @@
+# Team members, in display order (NOT alphabetical — Victoria (PI) is
+# intentionally first). To add someone new, copy one block below, fill
+# it in, and add their photo to assets/images/members/.
+- name: Dr. María Victoria Martínez-López
+  role: Principal Investigator
+  bio: Assistant Professor at the University of Granada, Nursing Department
+  overlay_bio: >-
+    She holds degrees in Nursing and Philosophy and a PhD in Philosophy with
+    International Mention from the University of Granada. Her research
+    focuses on care practices, organ donation, bereavement, qualitative
+    methodologies, and gender studies.
+  image: Victoria-IP.jpeg
+  link: https://produccioncientifica.ugr.es/investigadores/455064/detalle
+
+- name: Jorge Suárez
+  role: Data Analyst
+  bio: PhD Candidate at the University of Granada, Philosophy Department
+  overlay_bio: >-
+    He holds a degree in Philosophy and Masters' in both Philosophy and
+    Sociology by the University of Málaga. He specialises in Bioethics and
+    Applied Ethics with a focus on the application of Experimental and
+    Empirical Quantitative methods.
+  image: Jorge-DataAnalyst.png
+
+- name: Janet Delgado
+  role: Researcher
+  bio: Professor at Yamaguchi University, Nursing Department
+  overlay_bio: >-
+    She holds a PhD in Philosophy (Bioethics) from the University of La
+    Laguna, and is a researcher at the University of Granada and
+    collaborator with the Canary Islands Health Service's Technology
+    Assessment Agency (SESCS). A former nurse for 18 years, she is now a
+    professor at the University of Yamaguchi.
+  image: Janet-Researcher.jpg
+
+- name: Alberto Molina
+  role: Researcher
+  bio: Ramón y Cajal Fellow at the University of Granada, Philosophy Department
+  overlay_bio: >-
+    He earned his PhD at the Autonomous University of Madrid in December
+    2017 and later held a Juan de la Cierva Formación fellowship at the
+    University of Granada and a postdoctoral position at the Institute for
+    Advanced Social Studies of the Spanish National Research Council
+    (IESA-CSIC). He is currently an active member of the ELPAT working
+    group of the European Society for Organ Transplantation (ESOT).
+  image: Alberto-Researcher.jpg
+
+- name: Leah McLaughlin, PhD
+  role: Researcher
+  bio: Health Services Researcher at Bangor University, School of Health Sciences
+  overlay_bio: >-
+    She is a health services researcher with an interdisciplinary
+    background in creative arts and health sciences, specialising in organ
+    donation and transplantation, family decision-making at end of life,
+    and ethically complex areas of care.
+  image: Leah-Researcher.jpeg
+
+- name: Solveig Lena Hansen, PD Dr.
+  role: Researcher
+  bio: Tenured Lecturer, Institute of Public Health and Nursing Research, University of Bremen
+  overlay_bio: >-
+    She holds a PhD in Bioethics and a Habilitation in Medical Ethics and
+    Medical Humanities (both University of Göttingen, Germany). Her
+    research focuses on public health ethics, organ donation, obesity,
+    health communication, and health humanities.
+  image: Solveig-Researcher.jpg
+
+- name: Nadia Primc, PD Dr.
+  role: Researcher
+  bio: Assistant Professor, Medical Faculty, Institute for the History and Ethics of Medicine, Heidelberg University
+  overlay_bio: >-
+    She qualified as a professor in the history, theory, and ethics of
+    medicine and holds a PhD in philosophy. Her research focuses on
+    distributive justice in healthcare, organ allocation, ethics of
+    digitalisation of healthcare, ethics of clinical and interprofessional
+    decision making, and reproductive rights.
+  image: Nadia-Researcher.jpg
+
+- name: Peter Sýkora, PhD
+  role: Researcher
+  bio: Professor of Philosophy, Centre for Bioethics at the University of Sts. Cyril and Methodius
+  overlay_bio: >-
+    He graduated in microbial genetics and spent 15 years doing biomedical
+    research on antibiotic resistance. His current research focuses on
+    philosophy and bioethics, with several books and articles published in
+    these fields.
+  image: Peter-Researcher.jpeg
+
+- name: Prof. Sabine Wöhlke
+  role: Researcher
+  bio: Professor of Health Sciences and Ethics, University of Applied Science Hamburg, Department of Health Sciences
+  overlay_bio: >-
+    She focuses on ethical issues in healthcare, public participation, and
+    digitalisation. She also chairs the "Public Issues" working group of
+    ELPAT (ESOT), and the Ethics Committee at HAW Hamburg.
+  image: Sabine-Researcher.jpg
+
+- name: María Belmonte Herrera
+  role: Data Analyst
+  bio: PhD Candidate at the University of Granada, Philosophy Department
+  overlay_bio: >-
+    She holds a degree in Sociology and a Master's in Data Science Applied
+    to the Social Sciences from the University of Granada. Her research
+    focuses on the application of empirical quantitative methods in
+    bioethics and social research, with a particular interest in
+    end-of-life practices and euthanasia.
+  image: Maria-DataAnalyst.png
+
+- name: Ricardo Gázquez
+  role: Data Analyst
+  bio: Assistant Professor, University of Granada
+  overlay_bio: >-
+    Ricardo holds a PhD in Mathematics and conducts research in Operations
+    Research, developing data-driven methods for decision-making.
+  image: Ricardo-DataAnalyst.jpg
+
+- name: Rosa López
+  role: Researcher
+  bio: PhD Candidate at the University of Granada, Philosophy Department
+  overlay_bio: >-
+    She is a PhD student at the University of Granada researching
+    sustainable entrepreneurship and business model transformation as a
+    research assistant.
+  image: Rosa-Researcher.jpeg

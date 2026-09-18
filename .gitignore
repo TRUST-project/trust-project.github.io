@@ -1,0 +1,11 @@
+# Jekyll build output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Local gem vendoring (from `bundle install --path vendor/bundle`)
+vendor/
+.bundle/
+
+.DS_Store

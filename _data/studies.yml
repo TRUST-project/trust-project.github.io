@@ -1,0 +1,12 @@
+# Active/planned studies. `cta_label`/`cta_link` are optional — omit both
+# to show a study with no survey button (e.g. a closed or completed study).
+- status: In prep
+  title: Mapping TRUST in Organ Donation
+  description: >-
+    A comprehensive survey exploring how trust in different social
+    institutions (medical system, government, family) affects willingness
+    to donate organs.
+  duration: 10 minutes
+  eligibility: Adults (18+)
+  cta_label: See survey
+  cta_link: "https://harvardgreene.pdx1.qualtrics.com/jfe/preview/previewId/5468b3a3-2917-4604-86d5-7bc8ec4be134/SV_1XGeNb4FPfR7HyS?Q_CHL=preview&Q_SurveyVersionID=current"

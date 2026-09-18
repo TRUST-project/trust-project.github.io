@@ -303,12 +303,20 @@ a {
   transform: translateY(-5px);
 }
 
-.team-img {
+.team-img-wrap {
+  position: relative;
   width: 100%;
   height: 300px;
-  object-fit: cover;
   background-color: #e2e8f0;
   /* Placeholder color */
+  overflow: hidden;
+}
+
+.team-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .team-info {
@@ -336,15 +344,6 @@ a {
 }
 
 /* Team Member Hover Effect */
-.team-img {
-  position: relative;
-  width: 100%;
-  height: 300px;
-  object-fit: cover;
-  background-color: #e2e8f0;
-  overflow: hidden;
-}
-
 .team-img-overlay {
   position: absolute;
   top: 0;
