@@ -1,6 +1,15 @@
 # News & events, newest first. To add one, copy a block below, fill it in,
 # and add the photo to assets/images/events/. `date` is just display text,
 # not used for sorting — so put the newest item at the top of this file.
+
+- date: 12-13th November 2026
+  title: ELPAT Working Groups Meeting in Valencia
+  description: >-
+    Members of the ELPAT Working Groups met in Valencia, Spain, on 12–13 November 2026, 
+    to discuss ongoing activities, share progress, and plan future initiatives
+  image: assets/images/events/12Nov2026.jpeg
+  image_alt: ELPAT Working Groups Meeting in Valencia
+  
 - date: 25th June 2026
   title: TRUST Project team meets in Hamburg to advance international collaboration
   description: >-
@@ -48,3 +57,4 @@
     Transplantation."
   image: assets/images/events/ESOT-2022-logo.png
   image_alt: ESOT 2022 Logo
+
